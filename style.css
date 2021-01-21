@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+}
+table tr th{
+    color: #905b5b;
+    background-color: #dadada;
+    padding: 20px;
+}
+table tr td{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
